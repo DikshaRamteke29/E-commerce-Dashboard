@@ -115,4 +115,4 @@ This dashboard solves these problems by converting raw data into meaningful visu
 7 Screenshot
 Interactive Power BI dashboard analyzing e-commerce sales and profit performance across categories, cities, quarters, and years using charts, KPIs, filters, and business insights.
 
-Dasboard Screenshot 
+Dasboard Screenshot https://github.com/DikshaRamteke29/E-commerce-Dashboard/blob/main/Screenshot%202026-05-15%20201039.png
